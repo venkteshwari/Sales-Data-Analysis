@@ -32,7 +32,7 @@ The dataset used in this project includes the following columns:
 - `Sales` – Total sales amount
 - `Hour` – Purchase hour (extracted from order time)
 
-> Dataset file: `SalesData.xlsx`
+> Dataset file: <a href='https://github.com/venkteshwari/Sales-Data-Analysis/blob/31e14f655950cf64f87cbaf89c333f45c17e677b/Sales%20Data.xlsx'> Sales Dataset </a>
 
 ---
 
