@@ -2,15 +2,15 @@
 To analyze historical sales data using SQL to identify business insights, trends, seasonal patterns, and product/city performance.
 
 
-# 🛍️ Sales Data Analysis Using SQL
+#  Sales Data Analysis Using SQL
 
-## 🎯 Project Objective
+##  Project Objective
 
 The objective of this project is to analyze historical sales data using SQL to uncover key business insights. The analysis focuses on identifying **sales trends**, **seasonality patterns**, **top-performing products**, and **geographical performance**. The goal is to support **data-driven decision-making** for optimizing sales strategy, inventory management, and customer engagement.
 
 ---
 
-## 📌 Key Tasks
+##  Key Tasks
 
 - Query, filter, and aggregate sales data using SQL.
 - Analyze sales trends by **month**, **hour**, and **product**.
@@ -36,7 +36,7 @@ The dataset used in this project includes the following columns:
 
 ---
 
-## 🧠 Insights & SQL Queries
+##  Insights & SQL Queries
 
 | No. | Analysis Description |
 |-----|-----------------------|
@@ -57,7 +57,7 @@ The dataset used in this project includes the following columns:
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **SQL** (Microsoft SQL Server / MySQL Compatible)
 - **Excel** (for raw data processing)
