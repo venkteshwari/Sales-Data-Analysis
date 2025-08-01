@@ -20,7 +20,7 @@ The objective of this project is to analyze historical sales data using SQL to u
 
 ---
 
-## 📊 Dataset Overview
+##  Dataset Overview
 
 The dataset used in this project includes the following columns:
 
